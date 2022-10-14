@@ -1,7 +1,8 @@
 version="0.1"
 tags={
+	"Historical"
 	"Warfare"
 	"Gameplay"
 }
-name="Earlier Crossbowmen"
+name="Regiment - Crossbowmen"
 supported_version="1.7.2"
