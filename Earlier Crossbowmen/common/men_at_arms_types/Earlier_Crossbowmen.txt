@@ -1,0 +1,27 @@
+Crossbowmen = {
+	type = archers
+	
+	damage = 60
+	toughness = 10
+	pursuit = 10
+	screen = 0
+	
+	terrain_bonus = {
+		hills = { damage = 10 }
+		plains = { toughness = -8 }
+		drylands = { toughness = -8 }
+		desert = { toughness = -8 }
+	}
+
+	counters = {
+		heavy_infantry = 1
+		heavy_cavalry = 1
+		archer_cavalry = 0.5
+	}
+
+	buy_cost = { gold = 50 piety = 50 }
+	low_maintenance_cost = { gold = 0.2 piety = 0.2 }
+	high_maintenance_cost = { gold = 0.4 piety = 0.4 }
+	
+	stack = 100
+}
