@@ -1,5 +1,5 @@
 # CK3_Regiments
-A collection of mods that add new regiments to Crusader Kings 3  
+A collection of my mods aimed at increasing the variety of regiments  
 
 ## 1st Regiment : The Crossbowmen  
 ![Thumbnail for the Crossbowmen](https://github.com/ImMorph/CK3_Regiments/blob/main/thumbnails/modified_crossbowmen.jpg?raw=true)  
