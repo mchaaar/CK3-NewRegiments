@@ -1,0 +1,46 @@
+﻿train_imperial_battalion_decision = {
+	picture = "gfx/interface/illustrations/decisions/imperial_battalion.jpg"
+	major = yes
+	sort_order = 90
+	
+	desc = hire_physician_decision_desc
+	selection_tooltip = hire_physician_decision_tooltip
+
+	ai_check_interval = 60
+	
+	is_shown = {
+		is_ruler = yes
+	}
+
+	cooldown = { days = 10 }
+
+	is_valid = {
+        prestige_level >= 4
+		gold >= 1000
+		prestige >= 1000
+	}
+
+	is_valid_showing_failures_only = {
+		is_imprisoned = no
+	}
+	
+	effect = {
+		remove_short_term_gold = 1000
+		add_prestige = -1000
+		spawn_army = {
+			men_at_arms = {
+				type = armored_horsemen
+				stacks = 8
+			}
+			men_at_arms = {
+				type = light_horsemen
+				stacks = 6
+			}
+			inheritable = no
+			uses_supply = no
+			location = capital_province
+			name = "Imperial Battalion"
+		}
+		trigger_event = imperial_battalion_decisions.0001
+	}
+}
