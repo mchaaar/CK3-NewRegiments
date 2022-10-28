@@ -1,4 +1,5 @@
 ﻿train_imperial_battalion_decision = {
+
 	picture = "gfx/interface/illustrations/decisions/imperial_battalion.jpg"
 	major = yes
 	sort_order = 90
@@ -15,9 +16,13 @@
 	cooldown = { days = 10 }
 
 	is_valid = {
+		custom_description = {
+			text = imperial_battalion_has_a_marshal.0001
+		}
         prestige_level >= 4
 		gold >= 1000
 		prestige >= 1000
+		exists = cp:councillor_marshal
 	}
 
 	is_valid_showing_failures_only = {
@@ -41,6 +46,6 @@
 			location = capital_province
 			name = "Imperial Battalion"
 		}
-		trigger_event = imperial_battalion_decisions.0001
+        trigger_event = imperial_battalion_decisions.0001
 	}
 }

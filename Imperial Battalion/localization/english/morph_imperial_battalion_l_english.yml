@@ -1,3 +1,4 @@
 ﻿l_english:
  imperial_battalion_decisions.0001.t:0 "Train the Imperial Battalion"
  imperial_battalion_decisions.0001.desc:0 "Train the Imperial Battalion description"
+ imperial_battalion_has_a_marshal.0001:0 "A marshal has to be assigned in your council"
