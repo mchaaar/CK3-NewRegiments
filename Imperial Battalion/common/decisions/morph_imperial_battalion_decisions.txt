@@ -13,21 +13,17 @@
 		is_ruler = yes
 	}
 
-	cooldown = { days = 10 }
+	cooldown = { years = 9999 }
 
 	is_valid = {
-		custom_description = {
-			text = ib_has_a_marshal.0001
-		}
         prestige_level >= 4
-		gold >= 1000
-		prestige >= 1000
-		exists = cp:councillor_marshal
+		gold >= 2000
+		prestige >= 2000
 	}
 
 	cost = {
 		gold = 2000
-		prestige = 2000
+		prestige = 4000
 	}
 
 	is_valid_showing_failures_only = {
