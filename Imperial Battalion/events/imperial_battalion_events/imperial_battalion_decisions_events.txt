@@ -167,8 +167,8 @@ ib_army_ranged.0001 = {
 
 ib_army_infantry.0001 = {
 	type = character_event
-	title = imperial_battalion_decisions.0001.t
-	desc = imperial_battalion_decisions.0001.desc
+	title = ib_army_infantry.0001.t
+	desc = ib_army_infantry.0001.desc
 	theme = martial
 
 	left_portrait = {
@@ -199,8 +199,8 @@ ib_army_infantry.0001 = {
 
 ib_army_siege.0001 = {
 	type = character_event
-	title = imperial_battalion_decisions.0001.t
-	desc = imperial_battalion_decisions.0001.desc
+	title = ib_army_siege.0001.t
+	desc = ib_army_siege.0001.desc
 	theme = martial
 
 	left_portrait = {

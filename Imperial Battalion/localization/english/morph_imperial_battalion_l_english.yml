@@ -36,3 +36,15 @@
  ib_army_ranged.0001.desc:0 "2"
  ib_army_ranged_decisions.0001.a "3"
  ib_army_ranged_decisions.0001.b "4"
+
+ # Infantry
+ ib_army_infantry.0001.t:0 "1"
+ ib_army_infantry.0001.desc:0 "2"
+ ib_army_infantry_decisions.0001.a "3"
+ ib_army_infantry_decisions.0001.b "4"
+
+ # Siege
+ ib_army_siege.0001.t:0 "1"
+ ib_army_siege.0001.desc:0 "2"
+ ib_army_siege_decisions.0001.a "3"
+ ib_army_siege_decisions.0001.b "4"
