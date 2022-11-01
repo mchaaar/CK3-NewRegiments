@@ -9,10 +9,18 @@
  ib_decisions.0001.desc:0 "Train the Imperial Battalion description"
  ib_has_a_marshal.0001:0 "A marshal has to be assigned in your council"
 
- # Imperial Battalion Events
+ # Imperial Battalion 1st Part Event
  ib_decisions.0001.a:0 "Mixed"
  ib_decisions.0001.b:0 "Cavalry"
  ib_decisions.0001.c:0 "Ranged"
  ib_decisions.0001.d:0 "Infantry"
  ib_decisions.0001.e:0 "Siege"
  ib_decisions.0001.f:0 "Cancel"
+
+ # Imperial Battalion 2nd Part Events
+
+ # Mixed
+ ib_army_mixed.0001.t:0 "1"
+ ib_army_mixed.0001.desc:0 "2"
+ ib_army_mixed_decisions.0001.a "3"
+ ib_army_mixed_decisions.0001.b "4"

@@ -57,8 +57,8 @@
 
 ib_army_mixed.0001 = {
 	type = character_event
-	title = imperial_battalion_decisions.0001.t
-	desc = imperial_battalion_decisions.0001.desc
+	title = ib_army_mixed.0001.t
+	desc = ib_army_mixed.0001.desc
 	theme = martial
 
 	left_portrait = {
@@ -72,14 +72,15 @@ ib_army_mixed.0001 = {
 	}
 
 	option = {
-		name = imperial_battalion_decisions.0001.a
+		name = ib_army_mixed_decisions.0001.a
 		trigger_event = {
-			id = imperial_battalion_decisions.0001
+			id = ib_army_mixed.0002
 			years = 1
 		}
 	}
+
 	option = {
-		name = imperial_battalion_decisions.0001.b
+		name = ib_army_mixed_decisions.0001.b
 		trigger_event = {
 			id = imperial_battalion_decisions.0001
 			years = 1
@@ -142,6 +143,7 @@ ib_army_cavalry.0002 = {
 			years = 1
 		}
 	}
+
 	option = {
 		name = imperial_battalion_decisions.0001.b
 		trigger_event = {
