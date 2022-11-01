@@ -24,3 +24,15 @@
  ib_army_mixed.0001.desc:0 "2"
  ib_army_mixed_decisions.0001.a "3"
  ib_army_mixed_decisions.0001.b "4"
+
+ # Cavalry
+ ib_army_cavalry.0001.t:0 "1"
+ ib_army_cavalry.0001.desc:0 "2"
+ ib_army_cavalry_decisions.0001.a "3"
+ ib_army_cavalry_decisions.0001.b "4"
+
+ # Ranged
+ ib_army_ranged.0001.t:0 "1"
+ ib_army_ranged.0001.desc:0 "2"
+ ib_army_ranged_decisions.0001.a "3"
+ ib_army_ranged_decisions.0001.b "4"

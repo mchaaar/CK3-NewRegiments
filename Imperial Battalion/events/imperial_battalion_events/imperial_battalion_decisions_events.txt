@@ -65,11 +65,6 @@ ib_army_mixed.0001 = {
 		character = root
 		animation = war_over_win
 	}
-	
-	right_portrait = {
-		character = cp:councillor_marshal
-		animation = happiness
-	}
 
 	option = {
 		name = ib_army_mixed_decisions.0001.a
@@ -90,18 +85,13 @@ ib_army_mixed.0001 = {
 
 ib_army_cavalry.0001 = {
 	type = character_event
-	title = imperial_battalion_decisions.0001.t
-	desc = imperial_battalion_decisions.0001.desc
+	title = ib_army_cavalry.0001.t
+	desc = ib_army_cavalry.0001.desc
 	theme = martial
 
 	left_portrait = {
 		character = root
 		animation = war_over_win
-	}
-	
-	right_portrait = {
-		character = cp:councillor_marshal
-		animation = happiness
 	}
 
 	option = {
@@ -130,11 +120,6 @@ ib_army_cavalry.0002 = {
 		character = root
 		animation = war_over_win
 	}
-	
-	right_portrait = {
-		character = cp:councillor_marshal
-		animation = happiness
-	}
 
 	option = {
 		name = imperial_battalion_decisions.0001.a
@@ -155,18 +140,13 @@ ib_army_cavalry.0002 = {
 
 ib_army_ranged.0001 = {
 	type = character_event
-	title = imperial_battalion_decisions.0001.t
-	desc = imperial_battalion_decisions.0001.desc
+	title = ib_army_ranged.0001.t
+	desc = ib_army_ranged.0001.desc
 	theme = martial
 
 	left_portrait = {
 		character = root
 		animation = war_over_win
-	}
-	
-	right_portrait = {
-		character = cp:councillor_marshal
-		animation = happiness
 	}
 
 	option = {
