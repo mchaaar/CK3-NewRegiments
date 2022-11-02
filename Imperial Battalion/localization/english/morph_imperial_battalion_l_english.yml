@@ -48,3 +48,17 @@
  ib_army_siege.0001.desc:0 "2"
  ib_army_siege_decisions.0001.a "3"
  ib_army_siege_decisions.0001.b "4"
+
+# Imperial Battalion 3rd Part Events
+
+ # Mixed
+ ib_army_mixed.0002.t:0 "1"
+ ib_army_mixed.0002.desc:0 "2"
+ ib_army_mixed_decisions.0002.a "3"
+ ib_army_mixed_decisions.0002.b "4"
+
+ # Cavalry
+ ib_army_cavalry.0002.t:0 "1"
+ ib_army_cavalry.0002.desc:0 "2"
+ ib_army_cavalry_decisions.0002.a "3"
+ ib_army_cavalry_decisions.0002.b "4"
