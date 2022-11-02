@@ -193,6 +193,33 @@ ib_army_ranged.0001 = {
 	}
 }
 
+ib_army_ranged.0002 = {
+	type = character_event
+	title = ib_army_ranged.0002.t
+	desc = ib_army_ranged.0002.desc
+	theme = martial
+
+	left_portrait = {
+		character = root
+		animation = war_over_win
+	}
+
+	option = {
+		name = imperial_battalion_decisions.0002.a
+		trigger_event = {
+			id = imperial_battalion_decisions.0001
+			years = 1
+		}
+	}
+	option = {
+		name = imperial_battalion_decisions.0002.b
+		trigger_event = {
+			id = imperial_battalion_decisions.0001
+			years = 1
+		}
+	}
+}
+
 ib_army_infantry.0001 = {
 	type = character_event
 	title = ib_army_infantry.0001.t
@@ -202,11 +229,6 @@ ib_army_infantry.0001 = {
 	left_portrait = {
 		character = root
 		animation = war_over_win
-	}
-	
-	right_portrait = {
-		character = cp:councillor_marshal
-		animation = happiness
 	}
 
 	option = {
@@ -225,6 +247,33 @@ ib_army_infantry.0001 = {
 	}
 }
 
+ib_army_infantry.0002 = {
+	type = character_event
+	title = ib_army_infantry.0002.t
+	desc = ib_army_infantry.0002.desc
+	theme = martial
+
+	left_portrait = {
+		character = root
+		animation = war_over_win
+	}
+
+	option = {
+		name = imperial_battalion_decisions.0002.a
+		trigger_event = {
+			id = imperial_battalion_decisions.0001
+			years = 1
+		}
+	}
+	option = {
+		name = imperial_battalion_decisions.0002.b
+		trigger_event = {
+			id = imperial_battalion_decisions.0001
+			years = 1
+		}
+	}
+}
+
 ib_army_siege.0001 = {
 	type = character_event
 	title = ib_army_siege.0001.t
@@ -234,11 +283,6 @@ ib_army_siege.0001 = {
 	left_portrait = {
 		character = root
 		animation = war_over_win
-	}
-	
-	right_portrait = {
-		character = cp:councillor_marshal
-		animation = happiness
 	}
 
 	option = {
@@ -250,6 +294,33 @@ ib_army_siege.0001 = {
 	}
 	option = {
 		name = imperial_battalion_decisions.0001.b
+		trigger_event = {
+			id = imperial_battalion_decisions.0001
+			years = 1
+		}
+	}
+}
+
+ib_army_siege.0002 = {
+	type = character_event
+	title = ib_army_siege.0002.t
+	desc = ib_army_siege.0002.desc
+	theme = martial
+
+	left_portrait = {
+		character = root
+		animation = war_over_win
+	}
+
+	option = {
+		name = imperial_battalion_decisions.0002.a
+		trigger_event = {
+			id = imperial_battalion_decisions.0001
+			years = 1
+		}
+	}
+	option = {
+		name = imperial_battalion_decisions.0002.b
 		trigger_event = {
 			id = imperial_battalion_decisions.0001
 			years = 1
