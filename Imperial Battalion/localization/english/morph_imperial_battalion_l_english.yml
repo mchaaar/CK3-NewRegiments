@@ -80,3 +80,35 @@
  ib_army_siege.0002.desc:0 "2"
  ib_army_siege_decisions.0002.a "3"
  ib_army_siege_decisions.0002.b "4"
+
+# Imperial Battalion 4th Part Events
+
+ # Mixed
+ ib_army_mixed.0003.t:0 "1"
+ ib_army_mixed.0003.desc:0 "2"
+ ib_army_mixed_decisions.0003.a "3"
+ ib_army_mixed_decisions.0003.b "4"
+
+ # Cavalry
+ ib_army_cavalry.0003.t:0 "1"
+ ib_army_cavalry.0003.desc:0 "2"
+ ib_army_cavalry_decisions.0003.a "3"
+ ib_army_cavalry_decisions.0003.b "4"
+
+ # Ranged
+ ib_army_ranged.0003.t:0 "1"
+ ib_army_ranged.0003.desc:0 "2"
+ ib_army_ranged_decisions.0003.a "3"
+ ib_army_ranged_decisions.0003.b "4"
+
+ # Infantry
+ ib_army_infantry.0003.t:0 "1"
+ ib_army_infantry.0003.desc:0 "2"
+ ib_army_infantry_decisions.0003.a "3"
+ ib_army_infantry_decisions.0003.b "4"
+
+ # Siege
+ ib_army_siege.0003.t:0 "1"
+ ib_army_siege.0003.desc:0 "2"
+ ib_army_siege_decisions.0003.a "3"
+ ib_army_siege_decisions.0003.b "4"

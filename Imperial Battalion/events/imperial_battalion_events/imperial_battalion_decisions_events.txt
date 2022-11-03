@@ -14,7 +14,7 @@
 		selection_tooltip = "sheesh"
 		trigger_event = {
 			id = ib_army_mixed.0001
-			years = 1
+			days = 10
 		}
 	}
 
@@ -22,7 +22,7 @@
 		name = ib_decisions.0001.b
 		trigger_event = {
 			id = ib_army_cavalry.0001
-			years = 1
+			days = 10
 		}
 	}
 
@@ -30,7 +30,7 @@
 		name = ib_decisions.0001.c
 		trigger_event = {
 			id = ib_army_ranged.0001
-			years = 1
+			days = 10
 		}
 	}
 
@@ -38,7 +38,7 @@
 		name = ib_decisions.0001.d
 		trigger_event = {
 			id = ib_army_infantry.0001
-			years = 1
+			days = 10
 		}
 	}
 
@@ -46,7 +46,7 @@
 		name = ib_decisions.0001.e
 		trigger_event = {
 			id = ib_army_siege.0001
-			years = 1
+			days = 10
 		}
 	}
 
