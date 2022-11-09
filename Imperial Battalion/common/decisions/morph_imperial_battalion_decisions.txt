@@ -13,10 +13,8 @@
 		is_ruler = yes
 	}
 
-	cooldown = { years = 9999 }
-
 	is_valid = {
-        prestige_level >= 4
+        prestige_level >= 3
 		gold >= 2000
 		prestige >= 2000
 	}
@@ -31,6 +29,6 @@
 	}
 	
 	effect = {
-        trigger_event = ib_decisions.0001
+        trigger_event = morph_ib.0001
 	}
 }

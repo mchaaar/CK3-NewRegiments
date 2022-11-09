@@ -1,6 +1,7 @@
 ﻿l_english:
 
- # Imperial Battalion Decisions
+ # Imperial Battalion Decision
+
  form_ib_decision:0 "Form the Imperial Battalion"
  form_ib_decision_desc:0 "Tooltip decision"
  form_ib_decision_tooltip:0 "Click!"
@@ -10,6 +11,7 @@
  ib_has_a_marshal.0001:0 "A marshal has to be assigned in your council"
 
  # Imperial Battalion 1st Part Event
+
  ib_decisions.0001.a:0 "Mixed"
  ib_decisions.0001.b:0 "Cavalry"
  ib_decisions.0001.c:0 "Ranged"
@@ -17,98 +19,114 @@
  ib_decisions.0001.e:0 "Siege"
  ib_decisions.0001.f:0 "Cancel"
 
- # Imperial Battalion 2nd Part Events
+ # Imperial Battalion (After choosing type)
 
- # Mixed
+ #
+ # MIXED
+ #
+
+ # Mixed 1
  ib_army_mixed.0001.t:0 "1"
  ib_army_mixed.0001.desc:0 "2"
- ib_army_mixed_decisions.0001.a "3"
- ib_army_mixed_decisions.0001.b "4"
+ ib_army_mixed_decisions.0001.a:0 "3"
+ ib_army_mixed_decisions.0001.b:0 "4"
 
- # Cavalry
- ib_army_cavalry.0001.t:0 "1"
- ib_army_cavalry.0001.desc:0 "2"
- ib_army_cavalry_decisions.0001.a "3"
- ib_army_cavalry_decisions.0001.b "4"
-
- # Ranged
- ib_army_ranged.0001.t:0 "1"
- ib_army_ranged.0001.desc:0 "2"
- ib_army_ranged_decisions.0001.a "3"
- ib_army_ranged_decisions.0001.b "4"
-
- # Infantry
- ib_army_infantry.0001.t:0 "1"
- ib_army_infantry.0001.desc:0 "2"
- ib_army_infantry_decisions.0001.a "3"
- ib_army_infantry_decisions.0001.b "4"
-
- # Siege
- ib_army_siege.0001.t:0 "1"
- ib_army_siege.0001.desc:0 "2"
- ib_army_siege_decisions.0001.a "3"
- ib_army_siege_decisions.0001.b "4"
-
-# Imperial Battalion 3rd Part Events
-
- # Mixed
+ # Mixed 2
  ib_army_mixed.0002.t:0 "1"
  ib_army_mixed.0002.desc:0 "2"
- ib_army_mixed_decisions.0002.a "3"
- ib_army_mixed_decisions.0002.b "4"
+ ib_army_mixed_decisions.0002.a:0 "3"
+ ib_army_mixed_decisions.0002.b:0 "4"
 
- # Cavalry
- ib_army_cavalry.0002.t:0 "1"
- ib_army_cavalry.0002.desc:0 "2"
- ib_army_cavalry_decisions.0002.a "3"
- ib_army_cavalry_decisions.0002.b "4"
-
- # Ranged
- ib_army_ranged.0002.t:0 "1"
- ib_army_ranged.0002.desc:0 "2"
- ib_army_ranged_decisions.0002.a "3"
- ib_army_ranged_decisions.0002.b "4"
-
- # Infantry
- ib_army_infantry.0002.t:0 "1"
- ib_army_infantry.0002.desc:0 "2"
- ib_army_infantry_decisions.0002.a "3"
- ib_army_infantry_decisions.0002.b "4"
-
- # Siege
- ib_army_siege.0002.t:0 "1"
- ib_army_siege.0002.desc:0 "2"
- ib_army_siege_decisions.0002.a "3"
- ib_army_siege_decisions.0002.b "4"
-
-# Imperial Battalion 4th Part Events
-
- # Mixed
+ # Mixed 3
  ib_army_mixed.0003.t:0 "1"
  ib_army_mixed.0003.desc:0 "2"
- ib_army_mixed_decisions.0003.a "3"
- ib_army_mixed_decisions.0003.b "4"
+ ib_army_mixed_decisions.0003.a:0 "3"
+ ib_army_mixed_decisions.0003.b:0 "4"
 
- # Cavalry
+ #
+ # CAVALRY
+ #
+
+ # Cavalry 1
+ ib_army_cavalry.0001.t:0 "1"
+ ib_army_cavalry.0001.desc:0 "2"
+ ib_army_cavalry_decisions.0001.a:0 "3"
+ ib_army_cavalry_decisions.0001.b:0 "4"
+
+ # Cavalry 2
+ ib_army_cavalry.0002.t:0 "1"
+ ib_army_cavalry.0002.desc:0 "2"
+ ib_army_cavalry_decisions.0002.a:0 "3"
+ ib_army_cavalry_decisions.0002.b:0 "4"
+
+ # Cavalry 3
  ib_army_cavalry.0003.t:0 "1"
  ib_army_cavalry.0003.desc:0 "2"
- ib_army_cavalry_decisions.0003.a "3"
- ib_army_cavalry_decisions.0003.b "4"
+ ib_army_cavalry_decisions.0003.a:0 "3"
+ ib_army_cavalry_decisions.0003.b:0 "4"
 
- # Ranged
+ #
+ # RANGED
+ #
+
+ # Ranged 1
+ ib_army_ranged.0001.t:0 "1"
+ ib_army_ranged.0001.desc:0 "2"
+ ib_army_ranged_decisions.0001.a:0 "3"
+ ib_army_ranged_decisions.0001.b:0 "4"
+
+ # Ranged 2
+ ib_army_ranged.0002.t:0 "1"
+ ib_army_ranged.0002.desc:0 "2"
+ ib_army_ranged_decisions.0002.a:0 "3"
+ ib_army_ranged_decisions.0002.b:0 "4"
+
+ # Ranged 3
  ib_army_ranged.0003.t:0 "1"
  ib_army_ranged.0003.desc:0 "2"
- ib_army_ranged_decisions.0003.a "3"
- ib_army_ranged_decisions.0003.b "4"
+ ib_army_ranged_decisions.0003.a:0 "3"
+ ib_army_ranged_decisions.0003.b:0 "4"
 
- # Infantry
+ #
+ # INFANTRY
+ #
+
+ # Infantry 1
+ ib_army_infantry.0001.t:0 "1"
+ ib_army_infantry.0001.desc:0 "2"
+ ib_army_infantry_decisions.0001.a:0 "3"
+ ib_army_infantry_decisions.0001.b:0 "4"
+
+ # Infantry 2
+ ib_army_infantry.0002.t:0 "1"
+ ib_army_infantry.0002.desc:0 "2"
+ ib_army_infantry_decisions.0002.a:0 "3"
+ ib_army_infantry_decisions.0002.b:0 "4"
+
+ # Infantry 3
  ib_army_infantry.0003.t:0 "1"
  ib_army_infantry.0003.desc:0 "2"
- ib_army_infantry_decisions.0003.a "3"
- ib_army_infantry_decisions.0003.b "4"
+ ib_army_infantry_decisions.0003.a:0 "3"
+ ib_army_infantry_decisions.0003.b:0 "4"
 
- # Siege
+ #
+ # SIEGE
+ #
+
+ # Siege 1
+ ib_army_siege.0001.t:0 "1"
+ ib_army_siege.0001.desc:0 "2"
+ ib_army_siege_decisions.0001.a:0 "3"
+ ib_army_siege_decisions.0001.b:0 "4"
+
+ # Siege 2
+ ib_army_siege.0002.t:0 "1"
+ ib_army_siege.0002.desc:0 "2"
+ ib_army_siege_decisions.0002.a:0 "3"
+ ib_army_siege_decisions.0002.b:0 "4"
+
+ # Siege 3
  ib_army_siege.0003.t:0 "1"
  ib_army_siege.0003.desc:0 "2"
- ib_army_siege_decisions.0003.a "3"
- ib_army_siege_decisions.0003.b "4"
+ ib_army_siege_decisions.0003.a:0 "3"
+ ib_army_siege_decisions.0003.b:0 "4"
