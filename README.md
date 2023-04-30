@@ -5,5 +5,4 @@
   
 ![Thumbnail for the Crossbowmen](https://github.com/ImMorph/CK3_Regiments/blob/main/images/thumbnails/others/repo_thumbnail_1.jpg?raw=true)  
   
-### *Work in progress*  
-  
+### Non-functional
